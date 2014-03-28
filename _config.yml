@@ -1,4 +1,4 @@
 name: Tech Blog @ Focus On Emotions
 markdown: redcarpet
 pygments: true
-include: [README.md]
+include: [README.md, CNAME]
