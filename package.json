@@ -1,0 +1,18 @@
+{
+  "name": "tech.focusonemotions.com",
+  "version": "0.0.1",
+  "description": "Tech blog @ Focus On Emotions",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.4",
+    "grunt-build-control": "~0.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/focusonemotions/tech.focusonemotions.com.git"
+  },
+  "author": "Focus On Emotions <dev@focusonemotions.com>",
+  "license": "Copyright 2014 Focus On Emotions",
+  "homepage": "https://github.com/focusonemotions/tech.focusonemotions.com"
+}
