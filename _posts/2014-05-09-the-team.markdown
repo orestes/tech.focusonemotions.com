@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "The Team"
+date:   2014-05-09 11:15:24
+categories: team
+---
+
+Focus On Emotions was founded in 2004. The Systems team was created in 2008 and in 2010 we created the Software Development team, taking over outsourced projects to gain more control and flexibility. Through this years we've built a network of services and applications that power our Digital Signage products and faced some serious challenges in the way. We'd like to write a bit about them, where we failed and where we succeeded.
+
+There's been some rotation so there are a few developers that where part of the team but left some time ago. 
+
+* **Virginie Fauré** Senior Web Developer
+* **Valentí Gamez** Web Developer
+
+Without them we wouldn't be here today, so we'd like to thank them for their time with us. You guys rock! ;)
+
+This is the current lineup:
+
+#Dimas López :: Web Developer#
+![](/img/128px/dimas.jpg)
+
+###How long have you been working at Focus On emotions? Why did you want to work here?###
+Since July 2013. I liked the tech and the product.
+##What do you do at Focus On Emotions?###
+Both backend and frontend development.
+###Which programming languages do you use at work?###
+PHP, HTML, JavaScript, Bash
+###Do you have any personal projects?###
+An Instagram client and a lot of ideas.
+###What do you do on your free time?###
+I usually read a lot:  technical/magic/illusionism books, blogs... Also some skateboarding and of course keep coding.
+###Links###
+[http://dimaslz.com/](http://dimaslz.com/)
+
+
+#Javi Morales :: Senior Web Developer#
+![](/img/128px/javi-morales.jpg)
+
+###How long have you been working at Focus On emotions? Why did you want to work here?###
+Since October 2010. What got my attention was being able to participate in the Digital signage flow and having my work
+being seen by many people passing by. I love that I can point to a TV and say, "hey, I did that".
+###What do you do at Focus On Emotions?###
+I develop the tools who carry the Digital Signage process, from the client uploading the content to the distribution and
+the screen display.
+###Do you have any personal projects?###
+I'm developing a Android/iOS game in C++ with a little help from a designer friend.
+###What do you do on your free time?###
+Spend time with the family, work on some personal projects and attend programming events.
+
+
+
+
+#Orestes Carracedo :: Software Team Lead#
+![](/img/128px/orestes.jpg)
+
+###How long have you been working at Focus On emotions? Why did you want to work here?###
+I got here in March 2010 to help out in the tech department. I liked the sector and the company's potential.
+###What do you do at Focus On Emotions?###
+I run the Software Development Departament and act as Team Lead.
+###Which programming languages do you use at work?###
+C#, PHP, Java, ActionScript, HTML5, JavaScript, Bash, PowerShell
+###Do you have any personal projects?###
+*[Teleport]*, a filesharing tool (in development) with my friend [Raúl Jiménez](http://twitter.com/elecash), *QuizShow* a local multiplayer game (in development) and *automatizr*, a social interaction
+automatization tool (closed beta).
+###What do you do on your free time?###
+Play with my cat, listen to/play music, code a bit more, play videogames, basketball, attend meetups,
+conferences and events where I meet the cool people in this city :)
+###Links###
+[http://orestescarracedo.com/](http://orestescarracedo.com/)
+
+
+
+
+#Gonzalo Rodríguez :: Systems Administrator#
+![](/img/128px/gonzalo.jpg)
+
+###How long have you been working at Focus On emotions? Why did you want to work here?###
+I came here in November 2008, I liked it because it looked like a nice job.
+###What do you do at Focus On Emotions?###
+I install, configure and maintain the company's servers. I sometimes do some extra tasks ;)
+###What do you do on your free time?###
+I always try to travel on the weekends for some hiking.
+
+
+
+
+#Javier Domingo :: I.T. Manager#
+![](/img/128px/xavi.jpg)
+###How long have you been working at Focus On emotions? Why did you want to work here?###
+I came here in January 2008. This company uses multiple technological solutions, cloud, software, hardware, embedded... if you like the Internet and technnological integrations, this is a good place.
+###What do you do at Focus On Emotions?###
+Provide support in Technological decision making and solutions integration.
+###Do you have any personal projects?###
+I like to play with amateur avionics made with arduino, Raspberry Pi and similar.
+###What do you do on your free time?###
+I provide consulting services for NGOs and of course, paragliding, when my daughter allows it.
+
+[Focus On Emotions]: http://focusonemotions.com
+[Teleport]: http://teleport.io
