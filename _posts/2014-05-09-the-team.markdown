@@ -19,7 +19,7 @@ This is the current lineup:
 #Dimas López :: Web Developer#
 ![](/img/128px/dimas.jpg)
 
-###How long have you been working at Focus On emotions? Why did you want to work here?###
+###How long have you been working at Focus On Emotions? Why did you want to work here?###
 Since July 2013. I liked the tech and the product.
 ##What do you do at Focus On Emotions?###
 Both backend and frontend development.
@@ -36,14 +36,16 @@ I usually read a lot:  technical/magic/illusionism books, blogs... Also some ska
 #Javi Morales :: Senior Web Developer#
 ![](/img/128px/javi-morales.jpg)
 
-###How long have you been working at Focus On emotions? Why did you want to work here?###
+###How long have you been working at Focus On Emotions? Why did you want to work here?###
 Since October 2010. What got my attention was being able to participate in the Digital signage flow and having my work
 being seen by many people passing by. I love that I can point to a TV and say, "hey, I did that".
+###Which programming languages do you use at work?###
+PHP, Java, HTML5, JavaScript, Bash, Batch
 ###What do you do at Focus On Emotions?###
 I develop the tools who carry the Digital Signage process, from the client uploading the content to the distribution and
 the screen display.
 ###Do you have any personal projects?###
-I'm developing a Android/iOS game in C++ with a little help from a designer friend.
+I'm developing *[Ahogados]*, an Android/iOS game in *[Cocos2d-x]* (C++) with a designer friend.
 ###What do you do on your free time?###
 Spend time with the family, work on some personal projects and attend programming events.
 
@@ -53,7 +55,7 @@ Spend time with the family, work on some personal projects and attend programmin
 #Orestes Carracedo :: Software Team Lead#
 ![](/img/128px/orestes.jpg)
 
-###How long have you been working at Focus On emotions? Why did you want to work here?###
+###How long have you been working at Focus On Emotions? Why did you want to work here?###
 I got here in March 2010 to help out in the tech department. I liked the sector and the company's potential.
 ###What do you do at Focus On Emotions?###
 I run the Software Development Departament and act as Team Lead.
@@ -74,7 +76,7 @@ conferences and events where I meet the cool people in this city :)
 #Gonzalo Rodríguez :: Systems Administrator#
 ![](/img/128px/gonzalo.jpg)
 
-###How long have you been working at Focus On emotions? Why did you want to work here?###
+###How long have you been working at Focus On Emotions? Why did you want to work here?###
 I came here in November 2008, I liked it because it looked like a nice job.
 ###What do you do at Focus On Emotions?###
 I install, configure and maintain the company's servers. I sometimes do some extra tasks ;)
@@ -86,7 +88,7 @@ I always try to travel on the weekends for some hiking.
 
 #Javier Domingo :: I.T. Manager#
 ![](/img/128px/xavi.jpg)
-###How long have you been working at Focus On emotions? Why did you want to work here?###
+###How long have you been working at Focus On Emotions? Why did you want to work here?###
 I came here in January 2008. We use multiple technological solutions, cloud, software, hardware, embedded... if you like the Internet and technnological integrations, this is a good place.
 ###What do you do at Focus On Emotions?###
 I provide support in technological decision making and help out with solution integrations.
@@ -97,3 +99,5 @@ I provide consulting services for NGOs and of course, paragliding, when my daugh
 
 [Focus On Emotions]: http://focusonemotions.com
 [Teleport]: http://teleport.io
+[Ahogados]: http://ahogados.com
+[Cocos2d-x]: http://cocos2d-x.org
