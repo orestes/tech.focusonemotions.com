@@ -12,7 +12,7 @@ There's been some rotation so there are a few developers that where part of the 
 * **Virginie Fauré** Senior Web Developer
 * **Valentí Gamez** Web Developer
 
-Without them we wouldn't be here today, so we'd like to thank them for their time with us. You guys rock! ;)
+Without them we wouldn't be here today so we'd like to thank them for their time with us. You guys rock! ;)
 
 This is the current lineup:
 
@@ -87,9 +87,9 @@ I always try to travel on the weekends for some hiking.
 #Javier Domingo :: I.T. Manager#
 ![](/img/128px/xavi.jpg)
 ###How long have you been working at Focus On emotions? Why did you want to work here?###
-I came here in January 2008. This company uses multiple technological solutions, cloud, software, hardware, embedded... if you like the Internet and technnological integrations, this is a good place.
+I came here in January 2008. We use multiple technological solutions, cloud, software, hardware, embedded... if you like the Internet and technnological integrations, this is a good place.
 ###What do you do at Focus On Emotions?###
-Provide support in Technological decision making and solutions integration.
+I provide support in technological decision making and help out with solution integrations.
 ###Do you have any personal projects?###
 I like to play with amateur avionics made with arduino, Raspberry Pi and similar.
 ###What do you do on your free time?###
